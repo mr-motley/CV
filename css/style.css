@@ -1,0 +1,154 @@
+a:link{
+    color: #a4cbb9;
+    text-decoration: none;
+}
+a:visited{
+    color: #CFB997;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: #FAD6A5;
+}
+a:active{
+    text-decoration: none;
+}
+
+.intro{ 
+    font-family: 'Oswald',sans-serif;
+    font-size: x-large;
+    src:url(https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap);
+    margin: 0;
+    text-align: center;
+    text-size-adjust: 100%;
+    color: #FFFFFF;
+    padding: 10%;
+}
+.border{
+    position: relative;
+    width: 100%;
+    top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.headshot{
+    position: relative;
+    border: #FAD6A5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 75%;
+}
+h2{
+    text-align: center;
+}
+.header{
+    background-color: #7B8FA1;
+}
+.content{
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-bottom: 2.5%;
+}
+.quaver{
+    position: absolute;
+    width: 15%;
+    left: 55rem;
+    top: 10rem;
+    height: auto;
+}
+.quaver1{
+    position: absolute;
+    width: 15%;
+    left: 25rem;
+    top: 10rem;
+    height: auto;
+}
+.skill{
+    margin: 0;
+    text-align: center;
+}
+ul{
+    list-style: none;  
+}
+.list{
+    float: right;
+    width: 50%;
+    padding: 0;
+}
+.listL{
+    float: left;
+    width: 50%;
+    padding: 0;
+}
+.iconR{
+    float: right;
+    margin:0;
+    width: 50%;
+    padding: 0;
+}
+.clear{
+    clear: both;
+}
+.icon{
+    float: left;
+    margin:0;
+    width: 50%;
+    padding: 0;
+}
+.lead{
+    clear: both;
+}
+.leadhead{
+    text-align: center;
+}
+.button{
+    background-color: #7B8FA1;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30%;
+}
+.hor{
+    border-top: dotted #a4cbb9 8px;
+    border-bottom: none;
+    width: 60%;
+}
+.hora{
+    border-top: dotted #a4cbb9 8px;
+    border-bottom: none;
+    width: 80%;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color:#7B8FA1;
+    border-radius: 7.5%;
+    padding:10px;
+    width: 45%;
+    height: auto;
+    margin: 150px auto;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+.banner{
+    background-color: #7B8FA1;
+    size: 100%;
+    color: #a4cbb9;
+}
+hr{
+    border-top: dotted #a4cbb9 8px;
+    border-bottom: none;
+    width: 40%;
+}
+body{
+    margin: 0;
+    background-color: #567189;
+    font-family: 'Lora', serif;
+    font-size: x-large;
+    text-align: center;
+}
