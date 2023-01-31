@@ -77,8 +77,11 @@ ul{
     float: right;
     width: 50%;
     padding: 0;
+    margin: 0;
+    text-align: left;
 }
 .listL{
+    text-align: right;
     float: left;
     width: 50%;
     padding: 0;
@@ -151,4 +154,5 @@ body{
     font-family: 'Lora', serif;
     font-size: x-large;
     text-align: center;
+    color: rgb(0, 0, 0);
 }
